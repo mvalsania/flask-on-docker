@@ -4,7 +4,7 @@
 This repository demonstrates how to containerize a Flask application integrated with PostgreSQL, Gunicorn, and Nginx for a production-ready deployment. The project shows how to build a full-stack microservice using Docker Compose, handle static and media files, and implement secure practices such as running processes as non-root. Below is a GIF demo of the image upload functionality in action:
 
 
-![Demo of Image Upload](Demo.gif)
+<img src="Demo.gif" alt="Demo of Image Upload" width="500">
 
 ## Build Instructions
 Follow these steps to bring up the service locally:
