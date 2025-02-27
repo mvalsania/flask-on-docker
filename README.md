@@ -1,9 +1,7 @@
 # Flask on Docker
 
 ## Overview
-This repository demonstrates how to containerize a Flask application integrated with PostgreSQL, Gunicorn, and Nginx for a production-ready deployment. The project shows how to build a full-stack microservice using Docker Compose, handle static and media files, and implement secure practices such as running processes as non-root. Below is a GIF demo of the image upload functionality in action:
-
-<img src="Demo.gif" alt="Demo of Image Upload" width="800">
+This repository demonstrates how to containerize a Flask application integrated with PostgreSQL, Gunicorn, and Nginx for a production-ready deployment. The project shows how to build a full-stack microservice using Docker Compose, handle static and media files, and implement secure practices such as running processes as non-root. 
 
 ## Build Instructions
 Follow these steps to bring up the service locally:
@@ -40,3 +38,6 @@ Follow these steps to bring up the service locally:
 7. **Upload an Image:**
    To test the image upload functionality, go to [http://localhost:2102/upload](http://localhost:2102/upload), choose the file `Demo.GIF` from your local system, and click the upload button.
 
+Below is a GIF demo of the image upload functionality in action:
+
+<img src="Demo.gif" alt="Demo of Image Upload" width="800">
