@@ -36,12 +36,8 @@ Follow these steps to bring up the service locally:
    ```
 
 6. **Access the Application:**
-   - **Production (via Nginx):** Open your browser and navigate to [http://localhost:2102](http://localhost:2102).
-   - **Directly (Flask/Gunicorn):** Open your browser and navigate to [http://localhost:2101](http://localhost:2101).
+   - Open your browser and navigate to [http://localhost:2102](http://localhost:2102).
 
 7. **Upload an Image:**
-   To test the image upload functionality, go to [http://localhost:2101/upload](http://localhost:2101/upload), choose the file `Demo.GIF` from your local system, and click the upload button.
-
-These instructions provide a complete guide for setting up and running the service, making it easy to demonstrate your work to potential employers.
-````markdown
+   To test the image upload functionality, go to [http://localhost:2102/upload](http://localhost:2102/upload), choose the file `Demo.GIF` from your local system, and click the upload button.
 
