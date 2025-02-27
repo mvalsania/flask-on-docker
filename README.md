@@ -38,6 +38,6 @@ Follow these steps to bring up the service locally:
 7. **Upload an Image:**
    To test the image upload functionality, go to [http://localhost:2102/upload](http://localhost:2102/upload), choose the file `Demo.GIF` from your local system, and click the upload button.
 
-Below is a GIF demo of the image upload functionality in action:
+## Demo
 
 <img src="Demo.gif" alt="Demo of Image Upload" width="800">
