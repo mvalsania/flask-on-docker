@@ -11,7 +11,7 @@ Follow these steps to bring up the service locally:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/flask-on-docker.git
+   git clone https://github.com/mvalsania/flask-on-docker.git
    cd flask-on-docker
    ```
 
